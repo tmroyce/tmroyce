@@ -1,4 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Michael
+
+### Seeking Mentors, Methods, and Meaningful Questions
+I'm on a journey from direct patient care to population health, cultivating knowledge in biostatistics and health data science. Looking to grow into the fields of public health, clinical research, and data science.
+
+### 🌱 I'm currently learning:
+- Statistical analysis methodologies in R, SAS, and Python
+- Data science applications and health research
+- Data visualization techniques
+
+### 🤝 I’m looking to collaborate on
+- Data visualization projects
+- Data analysis projects
+- Health research
+
+### 🔭 Current Focus:
+
+- Applied Epidemiology & Biostatistics
+- Health Data Science
+- Translating complex health data into actionable insights
+
+### 🎓 Education
+
+- Master of Public Health (MPH) - University of Michigan (2025)
+- Bachelor of Science in Nursing (BSN) - University of Central Florida
+
+### 📫 How to reach me:
+- 📧 tmroyce@umich.edu
+- https://www.linkedin.com/in/tmroyce/
+
 
 <!--
 **tmroyce/tmroyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
