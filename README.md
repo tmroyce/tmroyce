@@ -28,6 +28,7 @@ I'm on a journey from direct patient care to population health, cultivating know
 - 📧 tmroyce@umich.edu
 - https://www.linkedin.com/in/tmroyce/
 
+[Resume](/pub/resume.pdf)
 
 <!--
 **tmroyce/tmroyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
