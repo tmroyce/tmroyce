@@ -30,7 +30,7 @@ I'm on a journey from direct patient care to population health, cultivating know
 
 ### 📄 Check out:
 - [Resume](https://github.com/tmroyce/pub/blob/main/resume.pdf)
-- [Publications:](https://github.com/tmroyce/pub/blob/main/README.md) Report, Projects, and other ongoing works
+- [Publications:](https://github.com/tmroyce/pub/blob/main/README.md) Report, Projects, and other works
 
 
 <!--
