@@ -14,7 +14,7 @@ Nurse turned data analyst. I understand healthcare from the bedside and am learn
 
 ### 📊 Recent Projects 
 
-- Hospital operations analysis using R (16,000+ patient records)
+- Hospital operations analysis using R
 - California Teachers Study longitudinal analysis with SAS
 - Alaska health disparities mapping with GIS
 - Implementation science research
@@ -25,4 +25,4 @@ Looking for Health Data Analyst, Applied Epidemiologist, Clinical Research, or B
 
 ### 📫 Connect
 
-📧 [tmroyce@umich.edu](mailto:tmroyce@umich.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/tmroyce/) | 📈 [Project Portfolio](https://github.com/tmroyce/tmroyce-projects)
+📧 [tmroyce@umich.edu](mailto:tmroyce@umich.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/tmroyce/) | 📈 [Project Portfolio](https://github.com/tmroyce/tmroyce-projects) | 📄 [Resume](https://github.com/tmroyce/tmroyce-projects/blob/main/resume-mrt.pdf)
