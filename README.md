@@ -25,4 +25,4 @@ Looking for Health Data Analyst, Applied Epidemiologist, Clinical Research, or B
 
 ### 📫 Connect
 
-📧 [tmroyce@umich.edu](mailto:tmroyce@umich.edu) | 💼 [LinkedIn](linkedin.com/in/tmroyce) | 📈 [Project Portfolio](tmroyce.com/pub)
+📧 [tmroyce@umich.edu](mailto:tmroyce@umich.edu) | 💼 [LinkedIn](www.linkedin.com/in/tmroyce) | 📈 [Project Portfolio](https://github.com/tmroyce/tmroyce-projects)
