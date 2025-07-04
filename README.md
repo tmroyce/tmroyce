@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Michael Royce Tan
 
-**Healthcare professional with 7 years of nursing experience, and MPH in Population & Health Science at University of Michigan, 2025. Learning R, SAS, and data analysis to improve healthcare outcomes.**
+**Healthcare professional with 7 years of nursing experience and MPH in Population & Health Science** (University of Michigan, 2025). Building expertise in clinical research and health data analytics to drive evidence-based healthcare improvements.
 
 ### 🏥 Background
 
-Nurse turned data analyst. I understand healthcare from the bedside and am learning to find patterns in the numbers that can help patients and clinical teams.
+Clinical nurse developing skills in both **clinical research and data analytics**. I understand healthcare operations from the bedside and am learning to apply research methodologies and data science to improve patient outcomes and clinical processes.
 
 ### 🛠️ Skills
 
-- **Programming:** R, SAS, Python (learning)
-- **Analysis:** Healthcare data, statistical modeling, visualization
-- **Healthcare:** Epic, clinical workflows, quality improvement
+- **Programming:** R, SAS, Python (developing)
+- **Clinical Research:** Protocol development, GCP principles, data management
+- **Analysis:** Healthcare data, statistical modeling, epidemiological research
+- **Healthcare Systems:** Epic, clinical workflows, quality improvement, regulatory compliance
 
 ### 📊 Recent Projects 
 
@@ -19,9 +20,9 @@ Nurse turned data analyst. I understand healthcare from the bedside and am learn
 - Alaska health disparities mapping with GIS
 - Implementation science research
 
-### 🎯 What's Next
+### 🎯 Seeking Opportunities
 
-Looking for Health Data Analyst, Applied Epidemiologist, Clinical Research, or Biostatistician or similar roles where clinical experience meets data analysis.
+Looking for **Clinical Research, Health Data, Epidemiology, or Biostatistics** roles where clinical experience enhances research quality and data-driven insights.
 
 ### 📫 Connect
 
