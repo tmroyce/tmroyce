@@ -22,9 +22,9 @@ Clinical nurse developing skills in both **clinical research and data analytics*
 
 ### 🎯 Seeking Opportunities
 
-Seeking **Clinical Research, Health Data, Epidemiology, or Biostatistics** opportunities where clinical insight enhances research quality and drives meaningful healthcare improvements.
+- Seeking collaborative projects and opportunities to expand my R, SAS, and Python skills.
 
-Seeking collaborative projects and opportunities to expand my R, SAS, and Python skills.
+- Seeking **Clinical Research, Health Data, Epidemiology, or Biostatistics** opportunities where clinical insight enhances research quality and drives meaningful healthcare improvements.
 
 ### 📫 Connect
 
