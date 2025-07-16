@@ -1,31 +1,41 @@
 # 👋 Hi, I'm Michael Royce Tan
 
-**Healthcare professional with 7 years of nursing experience and MPH in Population & Health Science** (University of Michigan, 2025). Building expertise in clinical research and health data analytics to drive evidence-based healthcare improvements.
+Years ago, I became a nurse because I wanted to contribute to patient care. Today, I'm passionate about contributing to patient care at a much larger scale—through clinical research and health data analytics that transform individual observations into insights that can help many.
 
-### 🏥 Background
+> _What guides me is a love of learning paired with a need for meaning. I'm energized by complexity—but I always ask, how does this connect to people, purpose, and the greater good?_
 
-Clinical nurse developing skills in both **clinical research and data analytics**. I understand healthcare operations from the bedside and am learning to apply research methodologies and data science to improve patient outcomes and clinical processes.
 
-### 🛠️ Skills
+## 🔬 My Journey
+After seven years in direct patient care, I found myself constantly asking research questions that went beyond individual patient encounters:
 
-- **Programming:** R, SAS, Python (developing)
-- **Clinical Research:** Protocol development, GCP principles, data management
-- **Analysis:** Healthcare data, statistical modeling, epidemiological research
-- **Healthcare Systems:** Epic, clinical workflows, quality improvement, regulatory compliance
+- Why do certain populations have higher readmission rates?
+- What patterns exist in our treatment outcomes?
+- How can we use data to prevent problems before they start?
 
-### 📊 Recent Projects 
+These questions led me to pursue my MPH at University of Michigan, where I've discovered that my work is most fulfilling when I can bring structure to chaos—transforming complex clinical observations into analytical findings that drive meaningful change.
 
-- Hospital operations analysis using R
-- California Teachers Study longitudinal analysis with SAS
-- Alaska health disparities mapping with GIS
-- Implementation science research
 
-### 🎯 Seeking Opportunities
+## 🎯 What Drives Me
+I'm excited about opportunities where clinical research meets real patient lives, and where every analytical decision matters for the people who will ultimately benefit from the treatments we're developing.
 
-- Seeking collaborative projects and opportunities to expand my R, SAS, and Python skills.
+> _I believe the best research doesn't just generate data—it generates insights that genuinely improve patient outcomes._
 
-- Seeking **Clinical Research, Health Data, Epidemiology, or Biostatistics** opportunities where clinical insight enhances research quality and drives meaningful healthcare improvements.
 
-### 📫 Connect
+## 📚 Education & Certifications
+
+- 🎓 MPH, Population Health Science | University of Michigan (2025)
+- 🎓 BSN, Nursing | University of Central Florida
+- 📜 Data Science Professional Certificate | Harvard University
+- 📜 Statistical Analysis with R for Public Health | Imperial College London
+- 🏥 Registered Nurse | Active licensure, Nurse Licensure Compact
+
+
+## 🤝 Let's Connect
+I'm always interested in collaborating on projects that bridge healthcare and data science, especially those focused on:
+
+- 📊 Clinical research analytics
+- 🏥 Population health insights
+- 🔬 Implementation science
+- 👥 Evidence-based healthcare improvement
 
 📧 [tmroyce@umich.edu](mailto:tmroyce@umich.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/tmroyce/) | 📈 [Project Portfolio](https://github.com/tmroyce/tmroyce-projects) | 📄 [Resume](https://github.com/tmroyce/tmroyce-projects/blob/main/resume-mrt.pdf)
