@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael Royce Tan
 
-I'm a nurse with seven years of clinical experience who became curious about population-level patterns in patient outcomes. I strategically developed research skills through my MPH at Michigan, gained some pharmaceutical industry exposure at Inovio, and now I'm ready to contribute to clinical research where I can bridge clinical insight with analytical capabilities.
+I'm Michael, I'm a nurse - seven years, mostly cardiac units. I started getting curious about bigger patterns in patient outcomes, so I went back to school for my MPH at Michigan. I got some clinical research experience at Inovio Pharmaceuticals, and I've been learning R and SAS. I'm hoping to find opportunities in clinical research. Still learning a lot, but I'm really interested in this work.
 
 
 ## 🔬 My Journey
