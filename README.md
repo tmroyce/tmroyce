@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Michael Royce Tan
 
+I'm a nurse with seven years of clinical experience who became curious about population-level patterns in patient outcomes. I strategically developed research skills through my MPH at Michigan, gained some pharmaceutical industry exposure at Inovio, and now I'm ready to contribute to clinical research where I can bridge clinical insight with analytical capabilities.
+
+
+## 🔬 My Journey
+
 Years ago, I became a nurse because I wanted to contribute to patient care. Today, I'm passionate about contributing to patient care at a much larger scale—through clinical research and health data analytics that transform individual observations into insights that can help patients.
 
 > _What guides me is a love of learning paired with a need for meaning. I'm energized by complexity—but I always ask, how does this connect to people, purpose, and the greater good?_
 
-
-## 🔬 My Journey
 After years in direct patient care, I found myself constantly asking research questions that went beyond individual patient encounters:
 
 - Why do certain populations have higher readmission rates?
