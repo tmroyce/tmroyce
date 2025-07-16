@@ -6,7 +6,7 @@ Years ago, I became a nurse because I wanted to contribute to patient care. Toda
 
 
 ## 🔬 My Journey
-After seven years in direct patient care, I found myself constantly asking research questions that went beyond individual patient encounters:
+After years in direct patient care, I found myself constantly asking research questions that went beyond individual patient encounters:
 
 - Why do certain populations have higher readmission rates?
 - What patterns exist in our treatment outcomes?
