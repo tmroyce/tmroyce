@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael Royce Tan
 
-Years ago, I became a nurse because I wanted to contribute to patient care. Today, I'm passionate about contributing to patient care at a much larger scale—through clinical research and health data analytics that transform individual observations into insights that can help many.
+Years ago, I became a nurse because I wanted to contribute to patient care. Today, I'm passionate about contributing to patient care at a much larger scale—through clinical research and health data analytics that transform individual observations into insights that can help patients.
 
 > _What guides me is a love of learning paired with a need for meaning. I'm energized by complexity—but I always ask, how does this connect to people, purpose, and the greater good?_
 
