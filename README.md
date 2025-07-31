@@ -41,4 +41,4 @@ I'm always interested in collaborating on projects that bridge healthcare and da
 - 🔬 Implementation science
 - 👥 Evidence-based healthcare improvement
 
-📧 [tmroyce@umich.edu](mailto:tmroyce@umich.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/tmroyce/) | 📈 [Project Portfolio](https://github.com/tmroyce/tmroyce-projects) | 📄 [Resume](https://github.com/tmroyce/tmroyce-projects/blob/main/resume-mrt.pdf)
+📧 [tmroyce@umich.edu](mailto:tmroyce@umich.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/tmroyce/) | 📈 [Project Portfolio](https://github.com/tmroyce/tmroyce-projects) | 📄 [Credly](https://www.credly.com/users/michael-royce-tan) | 📄 [Resume](https://github.com/tmroyce/tmroyce-projects/blob/main/resume-mrt.pdf)
